@@ -151,11 +151,13 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
   "active": "8d47a376d0d69f70",
   "lastOpenFiles": [
+    "README.md",
     "files"
   ]
 }
