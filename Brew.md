@@ -19,3 +19,24 @@ brew uninstall --zap имя_программы
 ```bash
 brew autoremove
 ```
+
+## Обновления
+Обновить сам Brew:
+```shell
+brew update
+```
+
+Обновите установленную версию Homebrew:
+```shell
+brew upgrade
+```
+
+Очистите старые версии пакетов:
+```shell
+brew cleanup
+```
+
+Проверьте статус и убедитесь, что обновления завершены:
+```shell
+brew doctor
+```
