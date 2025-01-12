@@ -11,10 +11,14 @@
             "id": "e4877e4a305ccf44",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Ссылки/Windows.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Windows"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ссылки/Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Windows"
             }
           },
           {
@@ -107,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ссылки/Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из Windows"
             }
           },
           {
@@ -132,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Ссылки/Windows.md"
+              },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Windows"
             }
           }
         ]
@@ -157,13 +165,13 @@
   },
   "active": "e4877e4a305ccf44",
   "lastOpenFiles": [
+    "Инструкции/Деплой веб-приложения flask.md",
+    "Полезное/Как рассчитать стоимость проекта.md",
     "Полезное/Руководство по оформление Markdown файлов.md",
     "Ссылки/Mac.md",
-    "Полезное/Как рассчитать стоимость проекта.md",
     "Brew.md",
     "Ссылки/Windows.md",
     "Ссылки/Тест пк.md",
-    "Инструкции/Деплой веб-приложения flask.md",
     "Ссылки/Айфон.md",
     "Полезное",
     "README.md",
