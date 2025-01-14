@@ -226,5 +226,10 @@ sudo journalctl --vacuum-time=7d
 sudo systemctl restart systemd-journald
 ```
 
+Еще полезные команды(для очищения места):
+```shell
+sudo apt clean
+```
+
 ## SSL-сертификат
 [Ютуб](https://www.youtube.com/watch?v=1wnOw1vwPEo)
