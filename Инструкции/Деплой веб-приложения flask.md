@@ -2,12 +2,12 @@
 
 Создаем пользователя:
 ```bash
-sudo adduser имя_пользователя
+adduser имя_пользователя
 ```
 
 Добавляем его в sudoers:
 ```bash
-sudo usermod -aG sudo имя_пользователя
+usermod -aG sudo имя_пользователя
 ```
 
 ## Настройка сервера
@@ -233,3 +233,4 @@ sudo apt clean
 
 ## SSL-сертификат
 [Ютуб](https://www.youtube.com/watch?v=1wnOw1vwPEo)
+[Certbot](https://certbot.eff.org/instructions?ws=nginx&os=pip)
